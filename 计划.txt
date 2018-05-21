@@ -1,0 +1,9 @@
+
+
+
+
+获取汉字发出语音。
+获取单词调用英语读音（api）
+
+
+C:\Users\Aim\AppData\Roaming\Unity\Asset Store-5.x
